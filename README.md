@@ -9,9 +9,9 @@
 
 #### Team Members
 
-|     Role     |       👤 Name        |  🎓 Roll Number  | ⚧️ Gender | 🏫 Department / Programme | 🏠 Hosteller / Day Scholar |
-|:------------:|:--------------------:|:----------------:|:---------:|:-------------------------:|:--------------------------:|
-| Team Leader  |      Vinayak S       | CB.SC.U4CSE26563 |     M     |            CSE            |         Hosteller          |
-|   Member 2   | Viswanath Maharam AG | CB.SC.U4CSE26166 |     M     |            CSE            |         Hosteller          |
-|   Member 3   |      Maheema K       | CB.SC.U4CYS26124 |     F     |            CYS            |         Hosteller          |
-|   Member 4   |       Kaevin P       | CB.SC.U4CSE26218 |     M     |            CSE            |         Hosteller          |
+|     Role     |       👤 Name        |  🎓 Roll Number  | ⚧️ Gender | 🏫 Department / Programme | 🏠 Hosteller / Day Scholar       |
+|:------------:|:--------------------:|:----------------:|:---------:|:-------------------------:|:--------------------------------:|
+| Team Leader  |      Vinayak S       | CB.SC.U4CSE26563 |     M     |            CSE            | Hosteller (Kashyapa Bhavanam)    |
+|   Member 2   | Viswanath Maharam AG | CB.SC.U4CSE26166 |     M     |            CSE            | Hosteller (Kashyapa Bhavanam)    |
+|   Member 3   |      Maheema K       | CB.SC.U4CYS26124 |     F     |            CYS            | Hosteller (Mythreyi Bhavanam)    |
+|   Member 4   |       Kaevin P       | CB.SC.U4CSE26218 |     M     |            CSE            | Hosteller (Kashyapa Bhavanam)    |
