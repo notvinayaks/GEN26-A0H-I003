@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I003
 ### Team Details
-#### **Team Name** <<ANTHARA>> <br/>
+#### **Team Name :** **ANTHARA**
 #### Team Members
 
 |     Role     |      👤 Name       |  🎓 Roll Number  | ⚧️ Gender | 🏫 Department / Programme | 🏠 Hosteller / Day Scholar |
